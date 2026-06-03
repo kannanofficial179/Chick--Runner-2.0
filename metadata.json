@@ -1,0 +1,8 @@
+{
+  "name": "SKM Chicken Run Infinity",
+  "description": "An endless 3D runner game inspired by Subway Surfers featuring a cute chicken running through SKM farms",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
